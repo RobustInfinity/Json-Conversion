@@ -1,0 +1,46 @@
+[{
+  "name": "Mayank Mishra",
+  "age": 40,
+  "subjects": [
+    "Physics",
+    "Chemistry",
+    "Maths",
+    "Biology"
+  ],
+  "contactNo": {
+    "personalNo": 654654,
+    "phoneNo": 46548,
+    "telephoneNo": 216548,
+    "mobileNo": 8798745
+  }
+},{
+  "name": "Mayank Aggarwal",
+  "age": 40,
+  "subjects": [
+    "Physics",
+    "Chemistry",
+    "Maths",
+    "Biology"
+  ],
+  "contactNo": {
+    "personalNo": 654654,
+    "phoneNo": 46548,
+    "telephoneNo": 216548,
+    "mobileNo": 8798745
+  }
+},{
+  "name": "Aniket Jha",
+  "age": 40,
+  "subjects": [
+    "Physics",
+    "Chemistry",
+    "Maths",
+    "Biology"
+  ],
+  "contactNo": {
+    "personalNo": 654654,
+    "phoneNo": 46548,
+    "telephoneNo": 216548,
+    "mobileNo": 8798745
+  }
+}]
